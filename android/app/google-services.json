@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "68752477415",
+    "project_id": "aqadtest",
+    "storage_bucket": "aqadtest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:68752477415:android:a01521f27166a4992de642",
+        "android_client_info": {
+          "package_name": "com.aqadtest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb-SrBJssvfU0-Qmebvg6b-swqe6Zv8nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
